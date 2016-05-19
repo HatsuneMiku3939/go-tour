@@ -1,2 +1,2 @@
 all:
-	go build packages.go
+	go build *.go

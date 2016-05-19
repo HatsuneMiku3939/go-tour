@@ -1,2 +1,2 @@
 all:
-	go build imports.go
+	go build *.go
